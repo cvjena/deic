@@ -6,6 +6,10 @@ This repository contains descriptions, download instructions, and canonical trai
 > Tune It or Don't Use It: Benchmarking Data-Efficient Image Classification.  
 > ICCV 2021 Workshop on Visual Inductive Priors for Data-Efficient Deep Learning (VIPriors).
 
+:warning: For the newest version of the benchmark, and the full PyTorch implementations of several data-efficient methods, consider visiting:
+
+https://github.com/lorenzobrigato/gem
+
 
 ## Datasets
 
